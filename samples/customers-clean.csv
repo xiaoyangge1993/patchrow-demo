@@ -1,0 +1,13 @@
+customer_id,email,full_name,plan,seats,mrr,signup_date,active,country
+C-1001,ada@lovelace.dev,Ada Lovelace,Pro,5,249.00,2025-01-14,true,GB
+C-1002,grace@hopper.io,Grace Hopper,Enterprise,120,4800.00,2024-11-02,true,US
+C-1003,alan@turing.org,Alan Turing,Starter,2,29.00,2025-02-20,true,GB
+C-1004,katherine@johnson.space,Katherine Johnson,Pro,8,399.00,2025-03-01,true,US
+C-1005,linus@example.fi,Linus Example,Free,1,0,2025-03-09,false,FI
+C-1006,margaret@hamilton.dev,Margaret Hamilton,Enterprise,60,2400.00,2024-08-17,true,US
+C-1007,tim@example.ch,Tim Berners,Starter,3,29.00,2025-04-22,true,CH
+C-1008,hedy@lamarr.at,Hedy Lamarr,Pro,12,599.00,2024-12-05,true,AT
+C-1009,yuki@example.jp,Yuki Tanaka,Free,1,0,2025-05-30,true,JP
+C-1010,amara@example.ng,Amara Okafor,Starter,4,49.00,2025-06-11,true,NG
+C-1011,lucas@example.br,Lucas Souza,Pro,6,299.00,2025-07-03,false,BR
+C-1012,priya@example.in,Priya Raman,Enterprise,45,1800.00,2025-01-28,true,IN

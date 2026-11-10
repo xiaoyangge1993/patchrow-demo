@@ -1,0 +1,11 @@
+customer_id,email,full_name,plan,seats,mrr,signup_date,active,country
+C-4001,kai@example.com,Kai Wong,Pro,5,249.00,2025-03-03,true,US
+C-4002,lee@example.com,Smith, Lee,Starter,2,29.00,2025-03-04,true,US
+C-4003,jose@example.mx,JosÃ© GarcÃ­a,Pro,4,199.00,2025-03-05,true,MX
+C-4004,fran@example.fr,Fran�ois Petit,Free,1,0,2025-03-06,false,FR
+
+C-4005,mia@example.com,"Mia ""MJ"" Jones",Enterprise,25,1000.00,2025-03-07,true,US,
+C-4006,noah@example.com,"Noah
+Baker",Pro,3,149.00,2025-03-08,true,US
+C-4007,oli@example.com,Oli Grant,Pro,3
+C-4008,=HYPERLINK("http://example.com"),Pat Lee,Pro,2,99,2025-03-09,true,US

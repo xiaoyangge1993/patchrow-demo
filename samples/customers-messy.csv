@@ -1,0 +1,13 @@
+Cust ID,E-mail Address,Customer Name,Tier,Users,Monthly Revenue,Created At,Is Active,Country,Sales Rep
+C-2001,nina@northwind.io,Nina Park,Pro,10,499.00,2025-02-11,yes,US,Dana
+C-2002,omar@example.com,Omar Haddad,starter,3,"$1,200.00",03/14/2025,Y,AE,Dana
+C-2003,bob@example,Bob Stone,Pro,5,249,2025-02-30,true,US,Lee
+C-2004,carol @example.com,Carol White,Enterprise,12.5,1500,14/03/2025,true,CA,Lee
+C-2004,dan@example.com,Dan Brown,Startr,2,29,2025-01-05,no,US,Dana
+C-2006,NINA@northwind.io,,Pro,five,299,2025-04-01,true,US,Lee
+C-2007,eve@example.org,Eve Adams,,4,49,"March 5, 2025",maybe,usa,Dana
+2008,frank@example.net,Frank Ocean,Free,0,0,2025-05-19,false,GB,Lee
+C-2009,gia@example.it,Gia Rossi,Premium,7,349,2025/06/02,TRUE,IT,Dana
+C-2010,hal@example.com,Hal Jordan,Pro,9,-20,2025-06-15,1,us,Lee
+C-2011,ivy@example.com,Ivy Chen,Enterprise,30,"1,800.50",2025-07-01,true,SG,Dana
+C-2012,jon@example.com,Jon Snow,Free,1,0,2025-07-04,false,GB,Lee

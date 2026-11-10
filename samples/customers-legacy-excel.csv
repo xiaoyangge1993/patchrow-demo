@@ -1,0 +1,7 @@
+ID;Name;Email;Plan;Seats;MRR;Country
+C-3001;José Martínez;jose@example.es;Pro;6;299,00;ES
+C-3002;Zoë Müller;zoe@example.de;Starter;2;29,00;DE
+C-3003;François Lefèvre;francois@example.fr;Enterprise;40;1600,00;FR
+C-3004;Søren Nørgaard;soren@example.dk;Free;1;0;DK
+C-3005;Ana Ribeiro;ana@example.pt;Pro;4;199;PT
+C-3006;Björn Åström;bjorn@example.se;Starter;3;49,00;SE

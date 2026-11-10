@@ -1,0 +1,13 @@
+Kunden-ID;E-Mail-Adresse;Kundenname;Tarif;Nutzer;Umsatz;Anmeldedatum;Aktiv;Land
+C-3001;anna@example.de;Anna Schäfer;Pro;6;299,00;12.02.2025;ja;DE
+C-3002;lars@example.de;Lars Müller;starter;3;49,00;14.03.2025;Y;DE
+C-3003;sofia@example.de;Sofia Berg;Pro;5;249;30.02.2025;true;DE
+C-3004;jonas @example.de;Jonas Weber;Enterprise;12,5;1500;14.03.2025;true;AT
+C-3004;mia@example.de;Mia Braun;Startr;2;29;05.01.2025;nein;DE
+C-3006;ANNA@example.de;;Pro;five;199;01.04.2025;true;de
+C-3007;erik@example.se;Erik Nørgaard;;4;49;5. März 2025;vielleicht;SE
+3008;freya@example.dk;Freya Holm;Free;0;0;19.05.2025;false;DK
+C-3009;giulia@example.it;Giulia Rossi;Premium;7;349;02.06.2025;TRUE;IT
+C-3010;hans@example.de;Hans Keller;Pro;9;-20;15.06.2025;1;Deutschland
+C-3011;iris@example.ch;Iris Meier;Enterprise;30;1.800,50;01.07.2025;true;CH
+C-3012;paul@example.de;Paul König;Free;1;0;04.07.2025;false;DE
